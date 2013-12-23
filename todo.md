@@ -1,5 +1,3 @@
-hochpioritiv:
-
 
 ### Z-Abschlag ###
  * <del> sonderpreise im z-abschlag richtig (im wert von) </del>
@@ -23,8 +21,11 @@ hochpioritiv:
  * Update-Script:
  	* vpn
 	* git
-	* shell
+	* shell :+1: 
 	* ect
 
 ### new section ###
-lets rock
+ * lets rock
+
+### i love you ###
+ * so do i :)
