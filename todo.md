@@ -1,9 +1,8 @@
-
 ### Z-Abschlag ###
  * <del> sonderpreise im z-abschlag richtig (im wert von) </del>
  * pro filiale eigenes pdfs
  * nach-z-abschlag
- * auto-z-abschlag 
+ * auto-z-abschlag: http://www.cyberciti.biz/faq/how-do-i-add-jobs-to-cron-under-linux-or-unix-oses/
  * rechnungsnummer nummernkreise ect.
 
 ### bugs ###
@@ -21,11 +20,8 @@
  * Update-Script:
  	* vpn
 	* git
-	* shell :+1: 
+	* shell
 	* ect
 
-### new section ###
- * lets rock
-
 ### i love you ###
- * so do i :)
+ * so do i...
